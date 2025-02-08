@@ -3,11 +3,11 @@
   <channel>
     <title>Web App Updates</title>
     <item>
-      <title>Version 2.0.0</title>
+      <title>Version 1.0.15000</title>
       <description>Very Major update with new features.</description>
       <enclosure url="https://staging.earmark.app/" length="0" type="text/html"/>
-      <versionCode>2</versionCode>
-      <versionName>2.0.0</versionName>
+      <versionCode>1</versionCode>
+      <versionName>1.0.15000</versionName>
     </item>
   </channel>
 </rss>
