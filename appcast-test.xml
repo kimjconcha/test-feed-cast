@@ -3,12 +3,12 @@
   <channel>
     <title>Web App Updates</title>
     <item>
-      <title>Version 1.0.16000</title>
+      <title>Version 2.0.16000</title>
       <description>Very Major update with new features.</description>
       <pubDate>thur, 13 Feb 2018 12:00:00 +0000</pubDate>
-      <enclosure url="https://staging.earmark.app/" length="0" type="text/html"/>
-      <versionCode>1.1</versionCode>
-      <versionName>1.0.16000</versionName>
+      <enclosure url="https://staging.earmark.app" length="0" type="text/html"/>
+      <versionCode>2.0</versionCode>
+      <versionName>2.0.16000</versionName>
     </item>
   </channel>
 </rss>
