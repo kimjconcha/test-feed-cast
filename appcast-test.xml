@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Web App Updates</title>
     <item>
@@ -9,6 +9,8 @@
       <enclosure url="https://staging.earmark.app" length="0" type="text/html"/>
       <versionCode>2.0</versionCode>
       <versionName>2.0.16000</versionName>
+       <sparkle:version>5.0</sparkle:version>
+      <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
     </item>
   </channel>
 </rss>
